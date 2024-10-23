@@ -1,6 +1,3 @@
-# CodeAlpha_Tomato_Leaf_Disease_Prediction
-Machine learning-based tomato leaf disease detection using CNN for accurate classification.
-
 # Tomato Leaf Disease Detection
 
 This repository provides a machine learning-based solution for detecting various diseases in tomato leaves using a Convolutional Neural Network (CNN). The objective is to accurately classify tomato leaf images into different disease categories, facilitating early diagnosis and timely intervention in agricultural settings.
